@@ -33,4 +33,6 @@ THEN I should have proper build scripts for a webpack application
 
 ## Installation  
 
-1. clone repository 
+1. clone repository git@github.com:DamascusKraken/TextEditor.git
+2. type "npm i " in client/ server/ and root directories.
+3. 
