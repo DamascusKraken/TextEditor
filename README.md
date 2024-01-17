@@ -35,4 +35,18 @@ THEN I should have proper build scripts for a webpack application
 
 1. clone repository git@github.com:DamascusKraken/TextEditor.git
 2. type "npm i " in client/ server/ and root directories.
-3. 
+3. type "npm build" in client directory
+4. Type "nodemon server.js" in server directory. 
+5. navigate to localhost.
+
+## Usage 
+
+This application allows users to have an on-the-go text editor that can be used for many purposes. Copy/paste text documents, that may not want to fill your download files. The main focus of JAKE-19 is a up-to-date to-do list or notepad. 
+
+## Credits 
+
+  [Render Deployment Guide](https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide)  
+  [Emoji Source](https://emojidb.org/bank-safe-emojis?utm_source=user_search_ec)
+
+  ## License 
+  [MIT LICENSE](https://choosealicense.com/licenses/mit/ "LICENSE")
